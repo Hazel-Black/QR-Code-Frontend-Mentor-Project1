@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:( https://www.frontendmentor.io/solutions/the-amazing-qr-code-rJ4kJVs8c)
+- Live Site URL:(https://hazel-black.github.io/QR-Code-Frontend-Mentor-Project1/)
 
 ## My process
   I started with building out the appropppriate html tags and content that I would need. I moved into the CSS shortly after. I didnt use any frameworks or anything besides HTML and CSS since I am still fairly new to this and I dont know any frameworks yet. I will say I'm very excited to learn them though. 
@@ -77,7 +77,8 @@ I want to become more comfortable with using media queries and gaind some more e
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - Comming Soon
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Hazel-Black)
+- Twitter - (https://twitter.com/HazelBDev)
+- Youtube - (https://www.youtube.com/channel/UCCDWcbyG8rf6TC41EDGD4Rg)
 
