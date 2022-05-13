@@ -3,11 +3,11 @@ body{
     font-size: 80%;
     font-family: Outfit;
     text-align: center;
+    min-height: 100vh;
     
 }
 .container{
-    display: flex;
-    justify-content: center;
+    
     
 }
 
@@ -17,7 +17,8 @@ body{
     border-radius: 10px;
     padding: 10px 10px 5px 10px;
     box-shadow: 1 1 1 rgba(0, 0, 0, 1.5);
-    align-self: center;
+    margin: auto;
+    margin-top: 10%;
     max-width: 14rem;
     max-height: auto;
 }
@@ -26,6 +27,7 @@ body{
     font-weight: bold;
     margin-top: 0;
     font-size: large;
+    color: hsl(218, 44%, 22%);
    
 }
 .sub-title{
@@ -39,7 +41,7 @@ img{
     margin-bottom: 10px;
     display: block;
     width: 100%;
-    height: auto;
+    
 }
 .attribution { 
     font-size: 11px; 
